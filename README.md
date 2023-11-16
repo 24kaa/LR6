@@ -28,7 +28,10 @@ git add .
 git commit -m "Файл изменен второй раз" 
 git reset --hard HEAD^  
 git checkout -b vetochka  
-
+git add .  
+git commit -m "Отчет 1"  
+git add .  
+git commit -m "Отчет 2"  
 
 ### Изображения
 Изображение консоли  
